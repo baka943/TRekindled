@@ -1,0 +1,15 @@
+item.tconstruct.stamp.blank=Blank Stamp
+item.tconstruct.stamp.name=%s Stamp
+item.tconstruct.raw_stamp.blank=Raw Blank Stamp
+item.tconstruct.raw_stamp.name=Raw %s Stamp
+item.trekindled.stamp_gem.name=Gem Stamp
+item.trekindled.stamp_gem_raw.name=Raw Gem Stamp
+
+itemGroup.TinkerStamp=Tinkers' Stamp
+
+trekindled.jei.recipe.heatcoil=Hearth Coil Recipe
+
+tooltip.trekindled.castonly1=§4Can only be used to make casts/stamps,
+tooltip.trekindled.castonly2=§4Can't be used to make a tool!
+
+gui.error.trekindled.tool.default=Maybe you can try another material

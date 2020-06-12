@@ -1,0 +1,15 @@
+item.tconstruct.stamp.blank=空白压模
+item.tconstruct.stamp.name=%s压模
+item.tconstruct.raw_stamp.blank=未烧制的空白压模
+item.tconstruct.raw_stamp.name=未烧制的%s压模
+item.trekindled.stamp_gem.name=宝石模具
+item.trekindled.stamp_gem_raw.name=未烧制的宝石模具
+
+itemGroup.TinkerStamp=匠魂|压印
+
+trekindled.jei.recipe.heatcoil=线圈炉配方
+
+tooltip.trekindled.castonly1=§4仅用于制作铸模/压模，
+tooltip.trekindled.castonly2=§4不能用于制造工具！
+
+gui.error.trekindled.tool.default=或许你可以试试其他材料

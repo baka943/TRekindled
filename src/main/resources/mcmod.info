@@ -1,0 +1,16 @@
+[
+{
+  "modid": "trekindled",
+  "name": "Tinkers' Rekindled",
+  "description": "A addon with Embers Rekindled and Tinkers' Construct",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["baka943"],
+  "credits": "The Forge and FML",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
